@@ -136,9 +136,9 @@
 }
 
 .plyr__badge {
-  background: #E9967A;
-  background: #E9967A;
-  background: var(--plyr-badge-background, #E9967A);
+  background: #646045;
+  background: #646045;
+  background: var(--plyr-badge-background, #646045);
   border-radius: 2px;
   border-radius: 2px;
   border-radius: var(--plyr-badge-border-radius, 2px);
@@ -372,9 +372,9 @@ a.plyr__control:before {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: var(--plyr-menu-shadow, 0 1px 2px rgba(0, 0, 0, 0.15));
   box-shadow: var(--plyr-menu-shadow, 0 1px 2px rgba(0, 0, 0, 0.15));
-  color: #E9967A;
-  color: #E9967A;
-  color: var(--plyr-menu-color, #E9967A);
+  color: #646045;
+  color: #646045;
+  color: var(--plyr-menu-color, #646045);
   font-size: 15px;
   font-size: 15px;
   font-size: var(--plyr-font-size-base, 15px);
@@ -429,9 +429,9 @@ a.plyr__control:before {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #E9967A;
-  color: #E9967A;
-  color: var(--plyr-menu-color, #E9967A);
+  color: #646045;
+  color: #646045;
+  color: var(--plyr-menu-color, #646045);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -884,9 +884,9 @@ a.plyr__control:before {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: var(--plyr-tooltip-shadow, 0 1px 2px rgba(0, 0, 0, 0.15));
   box-shadow: var(--plyr-tooltip-shadow, 0 1px 2px rgba(0, 0, 0, 0.15));
-  color: #E9967A;
-  color: #E9967A;
-  color: var(--plyr-tooltip-color, #E9967A);
+  color: #646045;
+  color: #646045;
+  color: var(--plyr-tooltip-color, #646045);
   font-size: 13px;
   font-size: 13px;
   font-size: var(--plyr-font-size-small, 13px);
@@ -1161,9 +1161,9 @@ a.plyr__control:before {
   background: #fff;
   background: var(--plyr-audio-controls-background, #fff);
   border-radius: inherit;
-  color: #E9967A;
-  color: #E9967A;
-  color: var(--plyr-audio-control-color, #E9967A);
+  color: #646045;
+  color: #646045;
+  color: var(--plyr-audio-control-color, #646045);
   padding: 10px;
   padding: 10px;
   padding: var(--plyr-control-spacing, 10px);
