@@ -61,12 +61,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #E9967A;
+  background: #646045;
   color: #fff;
 }
 
 ::selection {
-  background:#E9967A;
+  background:#646045;
   color: #fff;
 }
 
@@ -136,7 +136,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #E9967A;
+  background: #646045;
 }
 
 .mb-30 {
@@ -157,7 +157,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background:#E9967A;
+  background:#646045;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -269,7 +269,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #E9967A;
+  color: #646045;
 }
 
 .navbar .dropdown ul {
@@ -303,7 +303,7 @@ p {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color:#E9967A
+  color:#646045
 }
 
 .navbar .dropdown:hover>ul {
@@ -339,7 +339,7 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #E9967A;
+  color: #646045;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -396,13 +396,13 @@ p {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #E9967A;
+  color: #646045;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #E9967A;
+  color: #646045;
 }
 
 .navbar-mobile .getstarted,
@@ -437,7 +437,7 @@ p {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color:#E9967A;
+  color:#646045;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -456,7 +456,7 @@ body {
 }
 #sect1{
   /*background-color: #3333337d;*/
-  color: #fff;
+  color:  #999999;
 }
 #sect1 {
   position: relative;
@@ -491,7 +491,7 @@ video {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #E9967A;
+  color: #646045;
 }
 
 .hero-content p {
@@ -500,7 +500,7 @@ video {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color:#E9967A;
+  color:#646045;
   font-weight: 500;
 }
 
@@ -510,7 +510,7 @@ video {
 }
 
 .hero-content .list-social li i {
-  color:#E9967A;
+  color:#646045;
   font-size: 15px;
 }
 
@@ -587,7 +587,7 @@ video {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #E9967A;
+  border: 20px solid #646045;
 }
 
 #about .div-img-bg .about-img img {
@@ -650,7 +650,7 @@ video {
 
 .services-block i {
   font-size: 50px;
-  color: #E9967A;
+  color: #646045;
   line-height: 70px;
   align-content: center;
 }
@@ -670,11 +670,11 @@ video {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #E9967A;
+  border: 1px solid #646045;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #E9967A;
+  background-color: #646045;
 }
 
 /*--------------------------------------------------------------
@@ -709,7 +709,7 @@ video {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #E9967A;
+  color: #646045;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -757,7 +757,7 @@ video {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color:#E9967A;
+  color: #646045;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
@@ -796,11 +796,11 @@ video {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid#E9967A;
+  border: 1px solid #646045;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #E9967A;
+  background-color: #646045;
 }
 
 .portfolio-details .portfolio-info {
@@ -887,7 +887,7 @@ video {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color:#E9967A;
+  color:#646045;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1039,7 +1039,7 @@ video {
 }
 
 .journal-txt h4 a:hover {
-  color: #E9967A;
+  color: #646045;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1123,7 +1123,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #E9967A;
+  border-left: 4px solid #646045;
 }
 
 /*--------------------------------------------------------------
@@ -1162,7 +1162,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #E9967A;
+  color: #646045;
   transition: all 0.5s ease-in-out 0s;
 }
 
