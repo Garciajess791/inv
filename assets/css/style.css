@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #898989;
+  color: #ffffff;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -455,7 +455,7 @@ body {
   min-height: 500px;
 }
 #sect1{
-  background-color: #3333337d;
+  /*background-color: #3333337d;*/
   color: #fff;
 }
 #sect1 {
@@ -467,6 +467,7 @@ video {
   left: 0;
   top: 0;
   width: 100%;
+  height: 100%;
   z-index: -1;
 }
 
@@ -866,7 +867,7 @@ video {
   position: relative;
 }
 
-.journal-block .journal-info img {
+.journal-block .journal-info iframe {
   max-width: 100%;
 }
 
