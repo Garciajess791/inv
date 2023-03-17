@@ -491,7 +491,7 @@ video {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #646045;
+  color: #ffffff;
 }
 
 .hero-content p {
@@ -500,7 +500,7 @@ video {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color:#646045;
+  color:#ffffff;
   font-weight: 500;
 }
 
@@ -510,7 +510,7 @@ video {
 }
 
 .hero-content .list-social li i {
-  color:#ffff;
+  color:#646045;
   font-size: 15px;
 }
 
